@@ -1,0 +1,2 @@
+Configuring default route to the Router
+we need to set the ip route for the router so that we can send the ping and get the reply other than the inteface set.
