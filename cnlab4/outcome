@@ -1,0 +1,3 @@
+After the experiment i got to know how to set default route by using adress 0.0.0.0 and which allows the packet to move to the successor router and to the destination.
+It can be tested by using ping command in the command prompt.
+also understood how to set static route to the the routers.
